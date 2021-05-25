@@ -5,5 +5,4 @@ print( "Hello world" )
 
 print( "Goodnight, Moon" )
 
-# comment
 
